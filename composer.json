@@ -1,9 +1,9 @@
 {
-    "name": "pinano/select2-bundle",
+    "name": "stinger-soft/select2-bundle",
     "type": "symfony-bundle",
     "description": "Symfony2 bundle for wrapping the famous select2 jquery plugin by @ivaynberg",
     "keywords": ["jquery", "select2", "bundle"],
-    "homepage": "http://github.com/pinano/select2-bundle",
+    "homepage": "http://github.com/stinger-soft/select2-bundle",
     "license": "MIT",
     "authors": [
         {
