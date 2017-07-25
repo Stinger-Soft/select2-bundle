@@ -4,6 +4,8 @@
 
 [Select2 4.0.3](https://select2.github.io/)
 
+Including Bugfix https://github.com/select2/select2/issues/4398#issuecomment-281721604
+
 ## Installation
 
 ### Add bundle to your composer.json file
@@ -14,7 +16,7 @@
 {
     "require": {
         // ...
-        "pinano/select2-bundle": "dev-master"
+        "stinger-soft/select2-bundle": "dev-master"
     }
 }
 ```
@@ -27,7 +29,7 @@
 {
     "require": {
         // ...
-        "pinano/select2-bundle": "4.0.3"
+        "stinger-soft/select2-bundle": "4.0.3.1"
     }
 }
 ```
